@@ -35,7 +35,7 @@
 			'port' => '3306',
 			'user' => 'root',
 			'password' => null,
-			'db' => 'sym-workspace-complete',
+			'db' => 'test-site',
 			'tbl_prefix' => 'sym_',
 		),
 		########

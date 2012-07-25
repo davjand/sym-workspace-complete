@@ -12,3 +12,5 @@ _docs/
 LICENSE
 public_html/install/
 public_html/workspace/uploads
+
+install.php
